@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0px;
+
+}
+
+ul, #main-img {
+    float: left;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li img {
+    width: 100px;
+    cursor: pointer;
+}
+
+#main-img {
+    width: 500px;
+}
+
+#main-img img {
+    width: 430px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
